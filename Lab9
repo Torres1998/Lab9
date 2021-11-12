@@ -1,6 +1,6 @@
-@base <http://raw.githubusercontent.com/pauulimarin/Web-de-datos-/main/social.>
+@base <https://raw.githubusercontent.com/Torres1998/Lab9/aa4b23bcdee594fa45d299531acd76e831c4d5bb/Lab9> .
 
-@prefix rt: <https://github.com/Torres1998/Lab9/new/main> .
+@prefix rt: <https://raw.githubusercontent.com/Torres1998/Lab9/aa4b23bcdee594fa45d299531acd76e831c4d5bb/Lab9> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
@@ -35,4 +35,4 @@
    social:likesMovie dbr:Shrek , dbr:Shrek2 , dbr:Shrek3 , dbr:Shrek4 ;
    social:hasSpiritAnimal dbr:Duck ;
    social:hasFavouritePlatonicSolid dbr:Dodecahedron ;
-   foaf:nick "Ray" 
+   foaf:nick "Ray".
