@@ -5,10 +5,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix dc: <http://purl.org/dc/terms/> .
-@prefix social: <http://users.dcc.uchile.cl/~ahogan/social.ttl#>.
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
-@prefix wd: <http://www.wikidata.org/entity/>.
-@prefix dbr: <http://dbpedia.org/resource/>.
+@prefix social: <http://users.dcc.uchile.cl/~ahogan/social.ttl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
 
 <> a foaf:Document ;
    dc:date "2021-11-10"^^xsd:date ;
