@@ -27,7 +27,7 @@
    foaf:img <https://pngimg.com/uploads/pokemon/pokemon_PNG148.png> ;
    foaf:knows
  <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , 
-<anakena.dcc.uchile.cl/ ... ia/sofifoaf/foaf.ttl#so>,
+<http://anakena.dcc.uchile.cl/~rstapia/sofifoaf/foaf.ttl#so>,
 <anakena.dcc.uchile.cl/~rstapia/foaf.ttl#rs>,
 <users.dcc.uchile.cl/~paliaga/foaf.ttl#pa> ;
    foaf:interest dbr:Semantic_Web, dbr:Football_player, dbr:Tennis ; 
